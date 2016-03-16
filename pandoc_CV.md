@@ -8,7 +8,7 @@ Curriculum Vitae
 URL Assignment 2: http://arjanspaans.github.io/fourth-repo/Assignment%202%20NS_html/page1.html
 
 
-URL latex file Assignment 2:  http://arjanspaans.github.io/fourth-repo/Assignment%202%20NS_html/Assignment%202%20NS.tex
+URL codes Assignment 2: https://github.com/arjanspaans/fourth-repo/tree/gh-pages/Assignment%202%20NS_html
 
 
 Personalia
