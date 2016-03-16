@@ -5,10 +5,10 @@ date: February 2012
 Curriculum Vitae
 ================
 
-URL link Assignment 2: http://arjanspaans.github.io/fourth-repo/Assignment%202%20NS_html/page1.html
+URL Assignment 2: http://arjanspaans.github.io/fourth-repo/Assignment%202%20NS_html/page1.html
 
 
-URL link latex file:  http://arjanspaans.github.io/fourth-repo/Assignment%202%20NS_html/Assignment%202%20NS.tex
+URL latex file Assignment 2:  http://arjanspaans.github.io/fourth-repo/Assignment%202%20NS_html/Assignment%202%20NS.tex
 
 
 Personalia
