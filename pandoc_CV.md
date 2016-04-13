@@ -10,6 +10,8 @@ URL Assignment 2: http://arjanspaans.github.io/fourth-repo/Assignment%202%20NS_h
 
 URL codes Assignment 2: https://github.com/arjanspaans/fourth-repo/tree/gh-pages/Assignment%202%20NS_html
 
+URL Assignment 3: http://gitver.github.io/Thirdassignment/
+
 
 Personalia
 ----------
