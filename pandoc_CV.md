@@ -10,7 +10,7 @@ URL Assignment 2: [Click here](http://arjanspaans.github.io/fourth-repo/Assignme
 
 URL codes Assignment 2: [Click here](https://github.com/arjanspaans/fourth-repo/tree/gh-pages/Assignment%202%20NS_html)
 
-URL Assignment 3: [Click here](http://gitver.github.io/Thirdassignment/)
+URL Assignment 3: [Click here](http://gitver.github.io/thirdassignment/)
 
 
 Personalia
